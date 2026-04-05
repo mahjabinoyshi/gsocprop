@@ -106,6 +106,12 @@ The documentation uses dynamic Rd expressions:
 
 This makes the help page and the function behavior always agree, without re-running `devtools::document()` every time the deadline changes.
 
+## Multilingual prototype (experimental)
+
+Besides the qualification tests, I started a small prototype exploring ideas for
+multilingual documentation. This work lives in the `proto/` directory and is
+separate from the main `gsocprop` package code.
+
 ## GSoC project context
 
 This package was created as part of my preparation for the GSoC 2026 project:
